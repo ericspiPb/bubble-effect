@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Bubble Effect
+follow tutorial from [YouTube](https://youtu.be/noC22oMVb44)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
